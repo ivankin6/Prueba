@@ -2,7 +2,7 @@
 <!DOCTYPE HTML>
 <html>
   <head>
-    <title>Prueba 1</title>
+    <title>Pruebas</title>
   </head>
   <body>
     <h1 align="center">Pruebas para Github</h1> 
